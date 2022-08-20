@@ -7,6 +7,6 @@ I created this project during December of 2021 as a part of my Computer Science 
 #What I learned
 
 -Incorperating header and declarative files
--Different algorithsms such as Binary Search, Bubble Sort
+-Different algorithms such as Binary Search, Bubble Sort
 -How to include data files
 -Better understand the pathway of data through a program
